@@ -4,7 +4,7 @@ For more examples and samples please visit our engineering blog.
 Table of Contents
 -----------------
 
-  * [Envirius](#envirius)
+  * [GeoBox](#envirius)
     * [Getting Started](Getting Started)
     * [Features](gettingstarted.md)
   * [Installation](#getting started)
