@@ -5,7 +5,7 @@ Table of Contents
 -----------------
 
   * [GeoBox](#envirius)
-    * [Getting Started](Getting Started)
+    * [Gettingg Started](Getting Started)
     * [Features](gettingstarted.md)
   * [Installation](#getting started)
   * [Uninstallation](getting started)
