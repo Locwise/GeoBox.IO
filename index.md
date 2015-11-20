@@ -11,41 +11,19 @@ This guide provides instructions to get you started collecting devices locations
 * Test the service
 
 ### Create a Locwise Grid account
+Locwise Grid account is free, we recommend registering using your Gmail or Microsoft account
+### Create your first Grid Application
+In order to get started with Locwise Grid, first, you need to create a Grid Application
+Grid Application is a logical entity which groups devices, geofences and events.
+Any account may have several Grid applications. 
 
+### Generate tracking API keys
+Tracking is only possible when tracking messages contains a valid Grid API key. 
+Grid API key is our way to identify who you are while using our infrastructure.
+An application can have several different keys for different functionalities 
+There are 2 types of Grid API keys:
+* Tracking API Key - Enables devices to report their location
+* Management API Key - Enables interrogating devices location and managing system's geofences
+Each of your Grid applications has default API keys, you can always regenerate new API keys
+Go to your Control Panel, choose one of your applications and click API Keys, choose the name of the API key you would like to generate, the following screen will pop-up, click Regenerate Key:
 
-  * [GeoBox](#envirius)
-    * [Gettingg Started](Getting Started)
-    * [Features](gettingstarted.md)
-  * [Installation](#getting started)
-  * [Uninstallation](getting started)
-  * [Available plugins](Getting Started)
-  * [Usage](#Getting-Started)
-    * [Check available plugins](#check-available-plugins)
-    * [Check available versions for each plugin](#check-available-versions-for-each-plugin)
-    * [Create an environment](#create-an-environment)
-    * [Activate/deactivate environment](#activatedeactivate-environment)
-      * [Activating in a new shell](#activating-in-a-new-shell)
-      * [Activating in the same shell](#activating-in-the-same-shell)
-    * [Get list of environments](#get-list-of-environments)
-    * [Get current activated environment](#get-current-activated-environment)
-    * [Do something in environment without enabling it](#do-something-in-environment-without-enabling-it)
-    * [Export environment into tar archive](#export-environment-into-tar-archive)
-    * [Import environment from tar archive ](#import-environment-from-tar-archive)
-    * [Get help](#get-help)
-    * [Get help for a command](#get-help-for-a-command)
-  * [How to add a plugin?](#how-to-add-a-plugin)
-    * [Mandatory elements](#mandatory-elements)
-      * [plug_list_versions](#plug_list_versions)
-      * [plug_url_for_download](#plug_url_for_download)
-      * [plug_build](#plug_build)
-    * [Optional elements](#optional-elements)
-      * [Variables](#variables)
-      * [Functions](#functions)
-    * [Examples](#examples)
-  * [Example of the usage](#example-of-the-usage)
-  * [Dependencies](#dependencies)
-  * [Supported OS](#supported-os)
-  * [Tests](#tests)
-  * [Version History](#version-history)
-  * [License](#license)
-  * [README in another language](#readme-in-another-language)
