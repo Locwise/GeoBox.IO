@@ -1,14 +1,16 @@
-For more examples and samples please visit our engineering blog.
 
 
 Get Started with GeoBox.IO
 --------------------------
 This guide provides instructions to get you started collecting devices locations using GeoBox. The guide covers the following topics:
+
 * Create a Locwise Grid account
 * Create your first Grid application
 * Generate tracking API key
 * Start tracking
 * Test the service
+
+### Create a Locwise Grid account
 
 
   * [GeoBox](#envirius)
