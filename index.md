@@ -15,7 +15,7 @@ Locwise GeoBox account is free, we recommend registering using your Gmail or Mic
 ### Create your first GeoBox Application
 In order to get started with Locwise GeoBox, first, you need to create a GeoBox Application
 GeoBox Application is a logical entity which groups devices, geofences and events.
-Any account may have several Grid applications. 
+Any account may have several GeoBox applications. 
 
 ### Generate tracking API keys
 Tracking is only possible when tracking messages contains a valid GeoBox API key. 
