@@ -1,4 +1,4 @@
-![image](https://cloud.githubusercontent.com/assets/15333203/11377576/397046d8-92ef-11e5-916d-07f412206201.png)
+
 
 Get Started with GeoBox.IO
 --------------------------
@@ -16,7 +16,7 @@ Locwise GeoBox account is free, we recommend registering using your Gmail or Mic
 In order to get started with Locwise GeoBox, first, you need to create a GeoBox Application
 GeoBox Application is a logical entity which groups devices, geofences and events.
 Any account may have several GeoBox applications. 
-
+![image](https://cloud.githubusercontent.com/assets/15333203/11377781/6e322598-92f0-11e5-8f37-f7059d0b07b4.png)
 ### Generate tracking API keys
 Tracking is only possible when tracking messages contains a valid GeoBox API key. 
 GeoBox API key is our way to identify who you are while using our infrastructure.
