@@ -1,4 +1,4 @@
-
+![image](https://cloud.githubusercontent.com/assets/15333203/11377576/397046d8-92ef-11e5-916d-07f412206201.png)
 
 Get Started with GeoBox.IO
 --------------------------
