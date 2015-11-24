@@ -10,15 +10,15 @@ This guide provides instructions to get you started collecting devices locations
 * Start tracking
 * Test the service
 
-### Create a Locwise GeoBox account
+## Create a Locwise GeoBox account
 Locwise GeoBox account is free, we recommend registering using your Gmail or Microsoft account
-### Create your first GeoBox Application
+## Create your first GeoBox Application
 In order to get started with Locwise GeoBox, first, you need to create a GeoBox Application
 GeoBox Application is a logical entity which groups devices, geofences and events.
 Any account may have several GeoBox applications. 
 
 ![image](https://cloud.githubusercontent.com/assets/15333203/11377781/6e322598-92f0-11e5-8f37-f7059d0b07b4.png)
-### Generate tracking API keys
+## Generate tracking API keys
 Tracking is only possible when tracking messages contains a valid GeoBox API key. 
 GeoBox API key is our way to identify who you are while using our infrastructure.
 An application can have several different keys for different functionalities 
@@ -30,4 +30,9 @@ Each of your GeoBox applications has default API keys, you can always regenerate
 Go to your Control Panel, choose one of your applications and click API Keys, choose the name of the API key you would like to generate, the following screen will pop-up, click Regenerate Key:
 
 ![image](https://cloud.githubusercontent.com/assets/15333203/11377889/1229757a-92f1-11e5-8182-5ff95da9a2c8.png)
+
+ 
+##Start tracking
+
+Add GeoBox.IO Javascript SDK to your application by adding the follow script
 
