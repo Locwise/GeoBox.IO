@@ -55,3 +55,4 @@ tracker.start();
 ##Adding Geofences
 
 Create application GeoFences by selecting your application from the Account Panel
+![image](https://cloud.githubusercontent.com/assets/15333203/11530659/2b906a46-98ff-11e5-8386-e8f5a79dc4b3.png)
