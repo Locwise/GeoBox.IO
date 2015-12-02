@@ -64,6 +64,6 @@ The following screen will pop out:
 ![image](https://cloud.githubusercontent.com/assets/15333203/11530844/aaa34118-9900-11e5-9f0e-02f0dced2ab8.png)
 
 * Set the name of the Geofence
-* select the geofence type and draw the needed Geofence on the map, click Save
+* Select the geofence type and draw the needed Geofence on the map, click Save
 
 
