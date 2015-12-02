@@ -8,6 +8,7 @@ This guide provides instructions to get you started collecting devices locations
 * Create your first GeoBox.IO application
 * Generate tracking API key
 * Start tracking
+* Adding Geofences
 * Test the service
 
 ## Create a Locwise GeoBox.IO account
@@ -49,3 +50,6 @@ deviceid: "deviceid as you choose"
 tracker.start();
 });
 </script> ```
+
+
+##Adding Geofences
