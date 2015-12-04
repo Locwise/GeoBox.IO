@@ -41,15 +41,15 @@ Add GeoBox.IO Javascript SDK to your application by adding the follow script
 
 Add the following lines to your HTML page:
 
-``` <script type="text/javascript">
-$(function () {
-var tracker = new LocwiseGrid.Tracker({
-apikey: "your api key",
-deviceid: "deviceid as you choose"
-});
-tracker.start();
-});
-</script> ```
+    <script type="text/javascript">
+    $(function () {
+    var tracker = new LocwiseGrid.Tracker({
+    apikey: "your api key",
+    deviceid: "deviceid as you choose"
+    });
+    tracker.start();
+    });
+    </script>
 
 
 ##Adding Geofences
