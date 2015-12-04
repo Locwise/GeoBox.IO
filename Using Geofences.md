@@ -1,9 +1,14 @@
-##Using Geofences
+#Using Geo-Fences
 
-A Geofence is a geographic area where your application tracks devices events
+A Geo-fence is a geographic area where your application tracks devices events
 
+##In This Topic
+* Create Geo-Fence
+* Edit/Remove Geo-Fence
 
-After selecting the application, click Add New button at the top right of the screen
+-------------
+###Create Geo-Fence
+Select your application, click Add New button at the top right of the screen
 ![image](https://cloud.githubusercontent.com/assets/15333203/11530747/e7f9284e-98ff-11e5-820b-9de130d20fb3.png)
 
 The following screen will pop out:
@@ -12,3 +17,6 @@ The following screen will pop out:
 
 * Set the name of the Geofence
 * Select the geofence type and draw the needed Geofence on the map, click Save
+
+-------------
+###Edit/Remove Geo-Fence
