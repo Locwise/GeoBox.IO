@@ -2,8 +2,8 @@ Get Started with GeoBox.IO
 --------------------------
 This guide provides instructions to get you started collecting devices locations using GeoBox.IO. The guide covers the following topics:
 
-* [Create a Locwise GeoBox.IO account](##Create_a_Locwise_GeoBox.IO_account)
-* Create your first GeoBox.IO application
+* [Create a Locwise GeoBox.IO account](#Create-a-Locwise-GeoBox.IO-account)
+* [Create your first GeoBox.IO application](#Create-your-first-GeoBox.IO-Application)
 * Generate tracking API key
 * Start tracking
 * Adding Geofences
