@@ -9,7 +9,7 @@ This guide provides instructions to get you started collecting devices locations
 * Adding Geofences
 * Test the service
 
-### Create a Locwise GeoBox.IO account 
+## Create a Locwise GeoBox.IO account 
 Locwise GeoBox.IO account is free, we recommend registering using your Gmail or Microsoft account
 ## Create your first GeoBox.IO Application
 In order to get started with Locwise GeoBox.IO, first, you need to create a GeoBox.IO Application
