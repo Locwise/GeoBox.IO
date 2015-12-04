@@ -3,8 +3,8 @@ Get Started with GeoBox.IO
 This guide provides instructions to get you started collecting devices locations using GeoBox.IO. The guide covers the following topics:
 
 * [Create a Locwise GeoBox.IO account](#Create-a-Locwise-GeoBox.IO-account)
-* [Create your first GeoBox.IO application](#Create your first GeoBox.IO Application)
-* Generate tracking API key
+* [Create your first GeoBox.IO application](#Create-your-first-GeoBox.IO-Application)
+* [Generate tracking API key](#Generate-tracking-API-keys)
 * Start tracking
 * Adding Geofences
 * Test the service
@@ -17,7 +17,7 @@ GeoBox.IO Application is a logical entity which groups devices, geofences and ev
 Any account may have several GeoBox.IO applications. 
 
 ![image](https://cloud.githubusercontent.com/assets/15333203/11377781/6e322598-92f0-11e5-8f37-f7059d0b07b4.png)
-## Generate tracking API keys
+## Generate tracking API keys <a id="Generate-tracking-API-keys"></a>
 Tracking is only possible when tracking messages contains a valid GeoBox.IO API key. 
 GeoBox.IO API key is our way to identify who you are while using our infrastructure.
 An application can have several different keys for different functionalities 
