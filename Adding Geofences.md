@@ -1,4 +1,4 @@
-##Adding Geofences
+##Using Geofences
 
 A Geofence is a geographic area where your application tracks devices events
 
