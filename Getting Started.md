@@ -35,16 +35,16 @@ Go to your Control Panel, choose one of your applications and click API Keys, ch
 
 Add GeoBox.IO Javascript SDK to your application by adding the follow script
 
-``` <script type="text/javascript" src="http://locwisegridapi.azurewebsites.net/jsapi/v1/tracker" >/script> ```
+    <script type="text/javascript" src="http://locwisegridapi.azurewebsites.net/jsapi/v1/tracker" >/script>
 
 Add the following lines to your HTML page:
 
-``` <script type="text/javascript">
-$(function () {
-var tracker = new LocwiseGrid.Tracker({
-apikey: "your api key",
-deviceid: "deviceid as you choose"
-});
-tracker.start();
-});
-</script> ```
+    <script type="text/javascript">
+    $(function () {
+    var tracker = new LocwiseGrid.Tracker({
+    apikey: "your api key",
+    deviceid: "deviceid as you choose"
+    });
+    tracker.start();
+    });
+    </script>
