@@ -2,10 +2,6 @@
 
 A Geo-fence is a geographic area where your application tracks devices events
 
-In This Topic
--------------
-* Create Geo-Fence
-* Edit/Remove Geo-Fence
 
 -------------
 ##Create Geo-Fence
