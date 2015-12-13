@@ -1,4 +1,4 @@
-* [Getting Started](## Getting Started.md)
+* [Getting Started](Getting Started)
 * Geo-Fences
 * Tracking Map
 
