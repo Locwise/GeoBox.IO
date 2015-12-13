@@ -1,5 +1,5 @@
-Getting Started
-Geo-Fences
-Tracking Map
+*Getting Started
+*Geo-Fences
+*Tracking Map
 
 
