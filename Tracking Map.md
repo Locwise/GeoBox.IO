@@ -1,4 +1,4 @@
 #Tracking Map
 
-Use Trakning Map to trach live events, devices and GeoFences
+Use Trakning Map to track live events, devices and GeoFences
 
