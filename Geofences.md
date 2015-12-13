@@ -1,4 +1,4 @@
-#Geo-Fences
+#Using Geo-Fences
 
 A Geo-fence is a geographic area where your application tracks devices events
 
