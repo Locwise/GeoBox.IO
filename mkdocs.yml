@@ -1,7 +1,3 @@
 site_name: GEOBOX.IO
-pages:
-    - 'Introduction': 'index.md'
-    - 'Getting Started': 'GettingStarted.md'
-    - 'GeoFences': 'GeoFences.md'
-    - 'Tracking Map':'TrackingMap.md'
+
 copyright: © 2016 Locwise Technologies. All rights reserved.
