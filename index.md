@@ -1,5 +1,5 @@
 * [Getting Started](Getting Started)
-* [GeoFences](Geofences)
+* [GeoFences](GeoFences)
 * [Tracking Map](Tracking Map)
 
 
