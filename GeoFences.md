@@ -16,4 +16,4 @@ The following screen will pop out:
 * Select the geoFence type and draw the needed GeoFence on the map, click Save
 
 -------------
-##Edit/Remove Geo-Fence
+##Edit/Remove GeoFence
