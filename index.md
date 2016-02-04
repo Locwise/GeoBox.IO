@@ -1,5 +1,4 @@
-Welcome To GEOBOX.IO Documentation
-==================================
+#Welcome To GEOBOX.IO Documentation
 
 * [Getting Started](Getting Started)
 * [GeoFences](GeoFences)
