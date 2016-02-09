@@ -1,4 +1,5 @@
 site_name: GEOBOX.IO
+site_url:http://geobox.io/
 theme: mkdocs
 pages:
     - Introduction: 'index.md'
