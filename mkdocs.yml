@@ -1,6 +1,5 @@
 site_name: GEOBOX.IO
-site_url:http://geobox.io/
-theme: mkdocs
+theme: cosmo
 pages:
     - Introduction: 'index.md'
     - Getting Started: 'GettingStarted.md'
