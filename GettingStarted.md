@@ -5,9 +5,8 @@ This guide provides instructions to get you started collecting devices locations
 * [Create a Locwise GeoBox.IO account](#Create-a-Locwise-GeoBox.IO-account)
 * [Create your first GeoBox.IO application](#Create-your-first-GeoBox.IO-Application)
 * [Generate tracking API key](#Generate-tracking-API-keys)
-* Start tracking
-* Adding Geofences
-* Test the service
+* [Start tracking](#Start-Tracking)
+* [Tracking Map](#Tracking-Map)
 
 ## Create a Locwise GeoBox.IO account <a id="Create-a-Locwise-GeoBox.IO-account"></a>
 Locwise GeoBox.IO account is free, we recommend registering using your Gmail or Microsoft account
@@ -31,7 +30,7 @@ Go to your Control Panel, choose one of your applications and click API Keys, ch
 ![image](https://cloud.githubusercontent.com/assets/15333203/11377889/1229757a-92f1-11e5-8182-5ff95da9a2c8.png)
 
  
-##Start tracking
+##Start Tracking<a id="Start-Tracking"></a>
 
 Add GeoBox.IO Javascript SDK to your application by adding the follow script
 
@@ -48,3 +47,5 @@ Add the following lines to your HTML page:
     tracker.start();
     });
     </script>
+
+##Tracking Map<a id="Tracking-Map"></a>
