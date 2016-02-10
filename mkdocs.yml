@@ -3,5 +3,6 @@ theme: cosmo
 pages:
     - Introduction: 'index.md'
     - Getting Started: 'GettingStarted.md'
+    - Events: 'GeoBoxEvents.md'
     - GeoFences: 'GeoFences.md'
 copyright: © 2016 Locwise Technologies. All rights reserved.
