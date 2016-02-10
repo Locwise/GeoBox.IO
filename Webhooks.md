@@ -1,4 +1,4 @@
-#What is Webhooks?
+#What Are Webhooks?
 ------------------
 
 A Webhook is an HTTP callback, a HTTP POST which occurs when event takes place - an event notification via HTTP POST.
