@@ -1,5 +1,5 @@
-Get Started with GeoBox.IO
---------------------------
+Getting Started with GeoBox.IO
+------------------------------
 This guide provides instructions to get you started collecting devices locations using GeoBox.IO. The guide covers the following topics:
 
 * [Create a Locwise GeoBox.IO account](#Create-a-Locwise-GeoBox.IO-account)
